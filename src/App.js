@@ -3,7 +3,7 @@ import "./App.css"
 
 // 0. Install Dependencies
 // 1. Import dependencies
-import * as tf from "@tensorflow/tfjs"
+// import * as tf from "@tensorflow/tfjs"
 import * as qna from "@tensorflow-models/qna"
 import "react-loader-spinner/dist/loader/css/react-spinner-loader.css"
 import Loader from "react-loader-spinner"
